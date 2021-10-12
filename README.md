@@ -1,8 +1,5 @@
-# Lecture8
-
-Public repository and stub/testing code for Homework 1 of 10-714.
+# Lecture13
 
 
-This repo contains patches on top of hw1 to enable some of the content for lecture8. It will be replaced by hw2 repo eventually.
-
-Checkout the last two commits for the set of changes
+This repo contains patches on top of hw1/2 to enable some of the content for lecture13.
+It can be safely replaced by hw3 repo eventually.
